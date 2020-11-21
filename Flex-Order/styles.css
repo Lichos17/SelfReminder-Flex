@@ -43,6 +43,6 @@ h2 {
 }
 
 .elemento-flex:nth-child(3) {
-    order: 2
+    order: 2;
     background-color: #3F51B5;
 }
